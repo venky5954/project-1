@@ -4,7 +4,7 @@ class CharToStringDemo
    public static void main(String args[])
    {
       // Method 1: Using toString() method
-      char ch = 'a';
+      char ch = '';
       String str = Character.toString(ch);
       System.out.println("String is: "+str);
  
